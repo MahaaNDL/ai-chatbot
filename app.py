@@ -1,0 +1,1 @@
+print('Light version: run app.py with Flask and Streamlit')
